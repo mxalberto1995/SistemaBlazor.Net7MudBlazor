@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SistemaVentaBlazor.Client
+build_property.RootNamespace = SistemaVentaBlazor.Client
+build_property.ProjectDir = C:\Users\HP 15\Downloads\SistemaVentaBlazor\SistemaVentaBlazor\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP 15\Downloads\SistemaVentaBlazor\SistemaVentaBlazor\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Autorizacion/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3JpemFjaW9uXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/DashBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaEJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/HistorialVenta.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yaWFsVmVudGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Modales/MdDetalleVenta.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kYWxlc1xNZERldGFsbGVWZW50YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Modales/MdProducto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kYWxlc1xNZFByb2R1Y3RvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Modales/MdUsuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kYWxlc1xNZFVzdWFyaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Producto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Reporte.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Usuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Pages/Venta.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5ifa1fiy8h
+
+[C:/Users/HP 15/Downloads/SistemaVentaBlazor/SistemaVentaBlazor/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-izd924lmps
